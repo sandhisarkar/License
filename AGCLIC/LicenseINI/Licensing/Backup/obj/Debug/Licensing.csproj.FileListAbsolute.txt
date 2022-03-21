@@ -1,0 +1,4 @@
+D:\Sandhi\License\AGCLIC\LicenseINI\Licensing\Backup\obj\Debug\Licensing.csprojResolveAssemblyReference.cache
+D:\Sandhi\License\AGCLIC\LicenseINI\Licensing\Backup\obj\Debug\Licensing.Form1.resources
+D:\Sandhi\License\AGCLIC\LicenseINI\Licensing\Backup\obj\Debug\Licensing.Properties.Resources.resources
+D:\Sandhi\License\AGCLIC\LicenseINI\Licensing\Backup\obj\Debug\Licensing.csproj.GenerateResource.Cache
